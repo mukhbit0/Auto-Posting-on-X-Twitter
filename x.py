@@ -9,7 +9,7 @@ import time
 import random
 
 # Configuration
-YEAR_FOLDER = "C:\\Users\\arslan\\Videos\\ai\\ai\\New folder\\Minimalist Poster\\Anime\\Filtered Shikimori Poster\\ByYear\\ByYear\\2025"
+YEAR_FOLDER = "path to your folder"
 LOG_FILE = "processed_tweets.txt"
 SESSION_LOG_FILE = "twitter_session.txt"
 FAILED_LOG_FILE = "failed_tweets.txt"
