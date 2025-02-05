@@ -1,4 +1,3 @@
-
 # Auto Posting on Twitter/X
 
 <p align="center">
@@ -65,6 +64,12 @@ If you would like to contribute to this project, please email [mukhbit000@gmail.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## ☕ Support My Work  
+**Love this project?** Help me keep building automation tools!  
+---[Buy Me a Coffee](https://buymeacoffee.com/mukhbit) → Every sip fuels more code! 🚀  
 
 ---
 
