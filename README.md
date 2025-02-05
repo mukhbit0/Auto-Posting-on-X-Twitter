@@ -68,13 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ---
 
 ## ☕ Support My Work  
-**Love this project?** Help me keep building automation tools!  
----[Buy Me a Coffee](https://buymeacoffee.com/mukhbit) → Every sip fuels more code! 🚀  
-
----
-
-## ☕ Support My Work  
-<div align="center">
+<div align="left">
   <a href="https://buymeacoffee.com/mukhbit">
     <img src="https://miro.medium.com/v2/resize:fit:1090/0*lHgOW3tB_MfDAlBf.png" alt="Buy Me A Coffee" style="width: 200px;">
   </a>
